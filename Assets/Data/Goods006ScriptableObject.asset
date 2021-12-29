@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8fc6af92abb0447ab3397c61eaf2a8, type: 3}
+  m_Name: Goods006ScriptableObject
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 9093825842685103111, guid: 88c0e6f8e3f0d234ebcb128337e52e3e, type: 3}
+  GoodsId: 006
+  Price: 12
+  SecondsLeft: 15
